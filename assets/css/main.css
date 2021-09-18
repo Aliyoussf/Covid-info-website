@@ -1,0 +1,37 @@
+
+section#treatment.section.treatment{
+    background-color: #2766bb;
+    color: white;
+}
+#footer-top{
+    background-color: #151c2e;
+    color: white;
+}
+.about .video-box{
+    background-image: url("protect.png");
+}
+
+#hero h2{
+    color: #151c2e;
+}
+.section-bg{
+    background-color:#151c2e;
+    color: white; 
+}
+
+
+.handImage{
+    width:150px;
+    height: auto;
+}
+
+.covidImage{
+    width:350px;
+    margin:10px;
+    height: auto;
+}
+
+.text{
+    /* margin: 10px; */
+    text-align: center;
+}
